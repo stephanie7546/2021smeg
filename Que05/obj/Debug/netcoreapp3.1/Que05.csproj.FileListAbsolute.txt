@@ -1,0 +1,15 @@
+C:\Users\WebTest1\source\repos\Que05\Que05\bin\Debug\netcoreapp3.1\Que05.exe
+C:\Users\WebTest1\source\repos\Que05\Que05\bin\Debug\netcoreapp3.1\Que05.deps.json
+C:\Users\WebTest1\source\repos\Que05\Que05\bin\Debug\netcoreapp3.1\Que05.runtimeconfig.json
+C:\Users\WebTest1\source\repos\Que05\Que05\bin\Debug\netcoreapp3.1\Que05.runtimeconfig.dev.json
+C:\Users\WebTest1\source\repos\Que05\Que05\bin\Debug\netcoreapp3.1\Que05.dll
+C:\Users\WebTest1\source\repos\Que05\Que05\bin\Debug\netcoreapp3.1\Que05.pdb
+C:\Users\WebTest1\source\repos\Que05\Que05\obj\Debug\netcoreapp3.1\Que05.csprojAssemblyReference.cache
+C:\Users\WebTest1\source\repos\Que05\Que05\obj\Debug\netcoreapp3.1\Que05.csproj.CoreCompileInputs.cache
+C:\Users\WebTest1\source\repos\Que05\Que05\obj\Debug\netcoreapp3.1\Que05.AssemblyInfoInputs.cache
+C:\Users\WebTest1\source\repos\Que05\Que05\obj\Debug\netcoreapp3.1\Que05.AssemblyInfo.cs
+C:\Users\WebTest1\source\repos\Que05\Que05\obj\Debug\netcoreapp3.1\Que05.dll
+C:\Users\WebTest1\source\repos\Que05\Que05\obj\Debug\netcoreapp3.1\Que05.pdb
+C:\Users\WebTest1\source\repos\Que05\Que05\obj\Debug\netcoreapp3.1\Que05.genruntimeconfig.cache
+C:\Users\WebTest1\source\repos\Que05\Que05\obj\Debug\netcoreapp3.1\Que05.Form1.resources
+C:\Users\WebTest1\source\repos\Que05\Que05\obj\Debug\netcoreapp3.1\Que05.csproj.GenerateResource.cache
